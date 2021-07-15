@@ -1,0 +1,3 @@
+rootProject.name = "SatsTracker"
+include ':app'
+include ':sattracker-common'
